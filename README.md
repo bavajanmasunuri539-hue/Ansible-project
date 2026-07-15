@@ -50,4 +50,13 @@ ansible-playbook site.yml
 
 ![Server Deployment](screenshots/server-deployment.png)
 
+### Deployment Result
 
+![Deployment Result](screenshots/deployment-result.png### Additional Output
+
+![Output Result](screenshots/output-result.png)
+
+
+### playbook execution
+
+![Output Result](screenshots/output-result.png))
