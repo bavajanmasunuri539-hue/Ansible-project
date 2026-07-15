@@ -36,4 +36,18 @@ Run the complete automation:
 ```bash
 ansible-playbook site.yml
 
+## Output Screenshots
+
+### Ansible Connectivity Test
+
+![Ansible Ping](screenshots/ansible-ping.png)
+
+### Ansible Playbook Execution
+
+![Playbook Success](screenshots/playbook-success.png)
+
+### Server Deployment Result
+
+![Server Deployment](screenshots/server-deployment.png)
+
 
